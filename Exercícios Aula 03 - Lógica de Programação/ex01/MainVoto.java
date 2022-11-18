@@ -14,7 +14,7 @@ public class MainVoto {
                System.out.println("Sem direito a votar");
                break;
 
-           } else if ((idade > 15 && idade < 18) || idade > 69 ){
+           } else if ((idade > 15 && idade < 18) || idade > 70 ){
                System.out.println("Voto facultativo");
                break;
 
